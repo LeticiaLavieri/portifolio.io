@@ -6,7 +6,7 @@ Bem-vindo ao meu repositório de projetos focados em análise de dados, desenvol
 Este repositório abrange uma ampla variedade de projetos, desde scripts simples até aplicações mais avançadas, todos criados com o intuito de explorar e extrair insights valiosos a partir de conjuntos de dados diversos.
 <br>
 <br>
-##### :pushpin: [Meu Portifólio](xxx) 
+
 ##### :pushpin: [Meu perfil no Kaggle](https://www.kaggle.com/leticialavieri)   
 ##### :pushpin: [Meu perfil no LinkedIn](https://www.linkedin.com/in/leticia-g-s-lavieri/) 
 
