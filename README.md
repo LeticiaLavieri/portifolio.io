@@ -1,14 +1,17 @@
 # Sobre o Repositório
 
-**Repositório de Projetos em Python para Análise de Dados**
+**Repositório de Projetos para Análise de Dados**
 
-Bem-vindo ao meu repositório de projetos focados em análise de dados, desenvolvidos em Python. Aqui você encontrará uma coleção dos meus trabalhos que demonstram minha experiência e habilidades de programação nesta área especializada.
-Este repositório abrange uma ampla variedade de projetos, desde scripts simples até aplicações mais avançadas, todos criados com o intuito de explorar e extrair insights valiosos a partir de conjuntos de dados diversos.
+Bem-vindo ao meu repositório de projetos de análise de dados. Aqui, você encontrará uma coleção dos meus trabalhos que demonstram minha experiência e habilidades de programação nesta área especializada, utilizando ferramentas como Python e suas bibliotecas mais renomadas, como Pandas, Seaborn, Plotly, Sklearn e Numpy. Além disso, apresento projetos realizados com Power BI e SQL.
+
+Este repositório abrange uma ampla gama de projetos, desde scripts simples até aplicações mais avançadas, todos desenvolvidos com o objetivo de explorar e extrair insights valiosos a partir de diversos conjuntos de dados.
+
 <br>
 <br>
+
+##### :pushpin: [Meu perfil no LinkedIn](https://www.linkedin.com/in/leticia-g-s-lavieri/) 
 
 ##### :pushpin: [Meu perfil no Kaggle](https://www.kaggle.com/leticialavieri)   
-##### :pushpin: [Meu perfil no LinkedIn](https://www.linkedin.com/in/leticia-g-s-lavieri/) 
 
 ---
 
@@ -18,6 +21,12 @@ Cada projeto inclui uma breve descrição contextualizando a análise proposta e
 <br>
 
 ## Projetos:
+
+##### :pushpin: [Análise exploratória de dados - O mercado de dados vale a pena?](https://www.kaggle.com/code/leticialavieri/o-mercado-de-dados-vale-a-pena) 
+##### :pushpin: [Analise de Cancelamento de Clientes](https://github.com/LeticiaLavieri/Projeto-de-analise-de-Cancelamento-de-Clientes) 
+##### :pushpin: [Analise de score de crédito co IA](https://github.com/LeticiaLavieri/Projeto-analise-de-score) 
+##### :pushpin: [Automação de tarefas com Pyautogui](https://github.com/LeticiaLavieri/Projeto-Automacao-de-tarefas) 
+
 
 ####  O mercado de dados vale a pena? Uma análise exploratória de dados [[Link para o projeto completo](https://www.kaggle.com/code/leticialavieri/o-mercado-de-dados-vale-a-pena)]
 
@@ -42,7 +51,56 @@ Por meio do intensivo "Python PowerUp" realizado pela empresa de Hashtag Treinam
 
 ---
 
-**Conclusão:**
+## Dashboards:
+
+Dashboards desenvolvidos com foco em estudos utilizando a ferramenta Power BI, incluindo um dashboard elaborado com Excel e planilhas dinâmicas. Estes trabalhos têm como objetivo construir um portfólio que reflita cenários reais do dia a dia.
+
+##### :pushpin: [Dashboard de Vendas com Power BI](https://github.com/LeticiaLavieri/portifolio.io/tree/main/Dashboards/Dashboard%20de%20Vendas%20-%20Power%20BIs) 
+##### :pushpin: [Dashboard de Vendas com planilha automatizada no Microsoft Excel](https://github.com/LeticiaLavieri/portifolio.io/tree/main/Dashboards/Dashboard%20de%20Vendas%20-%20Excel) 
+
+
+### Dashboar de Vendas com Power BI
+
+<img src="https://github.com/LeticiaLavieri/portifolio.io/blob/main/Dashboards/Dashboard%20de%20Vendas%20-%20Power%20BI/Dashboard%20de%20vendas%202.PNG?raw=true" width="500" height="150">
+
+#### Estrutura da base de dados
+
+Arquivo em excel que contém inicialmente as seguintes colunas:
+- Data da Venda
+- Produto
+- Categoria
+- Preço unitário
+- Custo unitário
+- Marca
+- Quantidade de vendas
+- Nome do Cliente
+- Localidade
+
+Os dados foram manipulados pelo Power Query e pelo Power Bi, uma nova coluna foi criada para padronizar os valores contidos na coluna localiade separando as informações de país e continete
+
+**Quantidade de dados: 203883** 
+
+<br>
+
+### Dashboar de Vendas com Planilha automatizada no Microsoft Excel
+
+<img src="https://github.com/LeticiaLavieri/portifolio.io/blob/main/Dashboards/Dashboard%20de%20Vendas%20-%20Excel/Dashbord%20de%20vendas%202.png?raw=true" width="500" height="150">
+
+#### Estrutura da base de dados
+
+O banco de dados contém inicialmente as seguintes colunas:
+- Data da Venda
+- Vendedor
+- Cliente
+- Região
+- Produto
+- Valor
+
+
+**Quantidade de dados: 3670**
+
+---
+## Conclusão:
 
 Estou entusiasmada em compartilhar meus projetos de análise de dados em Python com você. Sinta-se à vontade para explorar e descobrir o que posso criar com essa poderosa linguagem de programação. Estou pronta para enfrentar novos desafios e colaborar em projetos que demandem expertise nessa área. Agradeço pela oportunidade e espero que aprecie o que preparei com dedicação e cuidado.
 
