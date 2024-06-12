@@ -29,7 +29,7 @@ Cada projeto inclui uma breve descrição contextualizando a análise proposta e
 
 <br>
 
-####  O mercado de dados vale a pena? Uma análise exploratória de dados [[Link para o projeto completo](https://www.kaggle.com/code/leticialavieri/o-mercado-de-dados-vale-a-pena)]
+####  O mercado de dados vale a pena? Uma análise exploratória de dados [[Link para o projeto completo](https://www.kaggle.com/code/leticialavieri/o-mercado-de-dados-vale-a-pena-an-lise)]
 
 A análise realizada explorou os dados da pesquisa do State of Data, que proporcionou informações cruciais para o setor de dados, como a demanda crescente por profissionais, o aumento da diversidade de gênero, a faixa etária predominante e a distribuição geográfica dos profissionais de dados no Brasil. Os insights gerados a partir destes dados são fundamentais para compreender as tendências e desafios enfrentados pelos profissionais e empresas dessa área.
 
