@@ -22,7 +22,7 @@ Cada projeto inclui uma breve descrição contextualizando a análise proposta e
 
 <br>
 
-##### :pushpin: [Análise exploratória de dados - O mercado de dados vale a pena?](https://www.kaggle.com/code/leticialavieri/o-mercado-de-dados-vale-a-pena-an-lise)) 
+##### :pushpin: [Análise exploratória de dados - O mercado de dados vale a pena?](https://www.kaggle.com/code/leticialavieri/o-mercado-de-dados-vale-a-pena-an-lise) 
 ##### :pushpin: [Analise de Cancelamento de Clientes](https://github.com/LeticiaLavieri/Projeto-de-analise-de-Cancelamento-de-Clientes) 
 ##### :pushpin: [Analise de score de crédito co IA](https://github.com/LeticiaLavieri/Projeto-analise-de-score) 
 ##### :pushpin: [Automação de tarefas com Pyautogui](https://github.com/LeticiaLavieri/Projeto-Automacao-de-tarefas) 
