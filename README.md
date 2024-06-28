@@ -43,7 +43,7 @@ A análise realizada explorou os dados da pesquisa do State of Data, que proporc
 
 <br>
 
-<img src="https://www.kaggleusercontent.com/kf/181680092/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..cw5esK4HfD1S6wP1klFHQA.ZPeodrJ4dbZJvVV6hh5zhjzfV5r2oIXXgTbh7JYIUfp1f0N52k0Ub3trgYn97LT8ZEnIPZyc7pFv8zvgv3eNDlmzqk6xUKogCRzZtRxpMgwTuyRewpHYEnxr7Nil3pfwUwC1xHWjbmFjDy-OsyKwRA4s_JvQtPhnJh8MzKTbK1LUXRYnAx0gkikeYxwrf8JSwD4GeudSfA-G_zgJdC4FCisJeKdxys81aRbrjI2mf3M-H_bUhJ-X5SY4NGMtODxrq71vB-UZNvjIKlwl_3LCm5xS8Hv19RdP76pGRh0aL8_ENjkLgWDS2r_yrimKqJy_jb3CccIa4n47Zajsdklxu2BwfnVZv2SX1NGnIIvHSqNV0Tn5Fi4dgJHCgvy88mqrHve5kr662YCzMxypn_zkqyHqpJh507I0oB0Sl9ghb3fhaLt1vQCGeFGEbNdun1ZrDC-H1i2tjxN9C973tQuOZLcF3m7_wq3ZLLNriTrDFfdB37Fc67DnWINQ0vZ4OYYDSsreLy9HyGs804pw5CoInkjNRNs_KLbv-E_FBioBQVqX5SpkdkD2-O7oxi2-y5W3tZe0t_hs9DQeLzPAdcxj--ivt8zcsT5zaEnFhW6YXDa56ZcS_3EkoQTBZraQvbnXJDQJsbmwcaTpVOa7M5NRhzZf00pskOEWBPopErfxekE.RhheAiO9_aI7G_hI0pPK7Q/__results___files/__results___37_0.png" width="500" height="300"> <img src="https://media.licdn.com/dms/image/D4D2DAQHxMvtbRjpdVQ/profile-treasury-image-shrink_1920_1920/0/1718308045988?e=1718913600&v=beta&t=A6CKN_p4wtJhKkvI2uoaenLZZGUeRAqeW6n3PzwZzi4" width="350" height="300">
+<img src="https://www.kaggleusercontent.com/kf/181680092/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..cw5esK4HfD1S6wP1klFHQA.ZPeodrJ4dbZJvVV6hh5zhjzfV5r2oIXXgTbh7JYIUfp1f0N52k0Ub3trgYn97LT8ZEnIPZyc7pFv8zvgv3eNDlmzqk6xUKogCRzZtRxpMgwTuyRewpHYEnxr7Nil3pfwUwC1xHWjbmFjDy-OsyKwRA4s_JvQtPhnJh8MzKTbK1LUXRYnAx0gkikeYxwrf8JSwD4GeudSfA-G_zgJdC4FCisJeKdxys81aRbrjI2mf3M-H_bUhJ-X5SY4NGMtODxrq71vB-UZNvjIKlwl_3LCm5xS8Hv19RdP76pGRh0aL8_ENjkLgWDS2r_yrimKqJy_jb3CccIa4n47Zajsdklxu2BwfnVZv2SX1NGnIIvHSqNV0Tn5Fi4dgJHCgvy88mqrHve5kr662YCzMxypn_zkqyHqpJh507I0oB0Sl9ghb3fhaLt1vQCGeFGEbNdun1ZrDC-H1i2tjxN9C973tQuOZLcF3m7_wq3ZLLNriTrDFfdB37Fc67DnWINQ0vZ4OYYDSsreLy9HyGs804pw5CoInkjNRNs_KLbv-E_FBioBQVqX5SpkdkD2-O7oxi2-y5W3tZe0t_hs9DQeLzPAdcxj--ivt8zcsT5zaEnFhW6YXDa56ZcS_3EkoQTBZraQvbnXJDQJsbmwcaTpVOa7M5NRhzZf00pskOEWBPopErfxekE.RhheAiO9_aI7G_hI0pPK7Q/__results___files/__results___37_0.png" width="500" height="300"> <img src="https://media.licdn.com/dms/image/D4D2DAQHxMvtbRjpdVQ/profile-treasury-image-shrink_1920_1920/0/1718308045988?e=1720191600&v=beta&t=m3gc7RGWQwmRatSkljwt3oc3KHcKwWQZS69IlXHw7uk" width="350" height="300">
 
 <br>
 
@@ -65,7 +65,7 @@ Carregamento dos dados transformados para posterior análise.
 * Análise dos padrões para obter insights e propor soluções
 * **Keywords** : Python, Data, Pandas, Geocodificação, Loggi, Logistica
 
-<img src="https://media.licdn.com/dms/image/D4D2DAQHoOOcfi9NyMw/profile-treasury-image-shrink_1920_1920/0/1718214582669?e=1718913600&v=beta&t=vtd3iklOfnNlQBqOOWY7by4nb3kS9eAYahiyih8IBaM" width="300" height="300">  <img src="https://media.licdn.com/dms/image/D4D2DAQEwGC0RA9lYww/profile-treasury-image-shrink_800_800/0/1718306853399?e=1718913600&v=beta&t=8UVkYLMhqSM3AZbAjXul2-C3S3wJYaUZvn8ShGsYN2Y" width="300" height="300"> <img src="https://media.licdn.com/dms/image/D4D2DAQE7MdM8q9n6Wg/profile-treasury-image-shrink_1920_1920/0/1718307042113?e=1718913600&v=beta&t=QBWfUfQN2b8fwgoFO81xTMptK4oQndNmtgZEMtVThMk" width="300" height="300">
+<img src="https://media.licdn.com/dms/image/D4D2DAQE7MdM8q9n6Wg/profile-treasury-image-shrink_1920_1920/0/1718307042113?e=1720191600&v=beta&t=f-RlFHRTkt6gX5UtnRZpf_-OMadw8hklGcSg51OvbnI" width="300" height="300">  <img src="https://media.licdn.com/dms/image/D4D2DAQEwGC0RA9lYww/profile-treasury-image-shrink_800_800/0/1718306853399?e=1720191600&v=beta&t=HsFeoi0tTWd4EXAzA27LbGKbOEVUiMTI-YTAPd8AFD0" width="300" height="300"> <img src="https://media.licdn.com/dms/image/D4D2DAQHoOOcfi9NyMw/profile-treasury-image-shrink_1920_1920/0/1718214582669?e=1720191600&v=beta&t=3AHux1tZDNlifpMXykb6ORySOQhba7mT4-2oIrcH5YM" width="300" height="300">
 
 <br>
 
@@ -143,6 +143,8 @@ O banco de dados contém inicialmente as seguintes colunas:
 Estou entusiasmada em compartilhar meus projetos de análise de dados em Python com você. Sinta-se à vontade para explorar e descobrir o que posso criar com essa poderosa linguagem de programação. Estou pronta para enfrentar novos desafios e colaborar em projetos que demandem expertise nessa área. Agradeço pela oportunidade e espero que aprecie o que preparei com dedicação e cuidado.
 
 **Vamos explorar juntos o mundo dos dados com Python!**
+
+<br>
 
 # Tecnologias utilizadas
 
