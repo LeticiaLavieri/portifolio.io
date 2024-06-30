@@ -24,6 +24,7 @@ Cada projeto inclui uma breve descrição contextualizando a análise proposta e
 
 ##### :pushpin: [Análise exploratória de dados - O mercado de dados vale a pena?](https://www.kaggle.com/code/leticialavieri/o-mercado-de-dados-vale-a-pena-an-lise)
 ##### :pushpin: [Análise Exploratória de Dados Logísticos: Desafios e Soluções para a Loggi](https://www.kaggle.com/code/leticialavieri/desafios-e-solucoes-para-a-loggi) 
+##### :pushpin: [Análise exploratória e Descritiva de Dados de crédito com SQL](https://www.kaggle.com/code/leticialavieri/eda-de-cr-dito-com-sql) 
 ##### :pushpin: [Analise de Cancelamento de Clientes](https://github.com/LeticiaLavieri/Projeto-de-analise-de-Cancelamento-de-Clientes) 
 ##### :pushpin: [Analise de score de crédito co IA](https://github.com/LeticiaLavieri/Projeto-analise-de-score) 
 ##### :pushpin: [Automação de tarefas com Pyautogui](https://github.com/LeticiaLavieri/Projeto-Automacao-de-tarefas) 
@@ -43,7 +44,7 @@ A análise realizada explorou os dados da pesquisa do State of Data, que proporc
 
 <br>
 
-<img src="https://www.kaggleusercontent.com/kf/181680092/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..cw5esK4HfD1S6wP1klFHQA.ZPeodrJ4dbZJvVV6hh5zhjzfV5r2oIXXgTbh7JYIUfp1f0N52k0Ub3trgYn97LT8ZEnIPZyc7pFv8zvgv3eNDlmzqk6xUKogCRzZtRxpMgwTuyRewpHYEnxr7Nil3pfwUwC1xHWjbmFjDy-OsyKwRA4s_JvQtPhnJh8MzKTbK1LUXRYnAx0gkikeYxwrf8JSwD4GeudSfA-G_zgJdC4FCisJeKdxys81aRbrjI2mf3M-H_bUhJ-X5SY4NGMtODxrq71vB-UZNvjIKlwl_3LCm5xS8Hv19RdP76pGRh0aL8_ENjkLgWDS2r_yrimKqJy_jb3CccIa4n47Zajsdklxu2BwfnVZv2SX1NGnIIvHSqNV0Tn5Fi4dgJHCgvy88mqrHve5kr662YCzMxypn_zkqyHqpJh507I0oB0Sl9ghb3fhaLt1vQCGeFGEbNdun1ZrDC-H1i2tjxN9C973tQuOZLcF3m7_wq3ZLLNriTrDFfdB37Fc67DnWINQ0vZ4OYYDSsreLy9HyGs804pw5CoInkjNRNs_KLbv-E_FBioBQVqX5SpkdkD2-O7oxi2-y5W3tZe0t_hs9DQeLzPAdcxj--ivt8zcsT5zaEnFhW6YXDa56ZcS_3EkoQTBZraQvbnXJDQJsbmwcaTpVOa7M5NRhzZf00pskOEWBPopErfxekE.RhheAiO9_aI7G_hI0pPK7Q/__results___files/__results___37_0.png" width="500" height="300"> <img src="https://media.licdn.com/dms/image/D4D2DAQHxMvtbRjpdVQ/profile-treasury-image-shrink_1920_1920/0/1718308045988?e=1718913600&v=beta&t=A6CKN_p4wtJhKkvI2uoaenLZZGUeRAqeW6n3PzwZzi4" width="350" height="300">
+<img src="https://media.licdn.com/dms/image/D4E2DAQGRw1ZCDbfAaQ/profile-treasury-image-shrink_800_800/0/1718196054878?e=1720364400&v=beta&t=qeXJUPtKETPcAeCzjZxhDS2czo-mr-kykToQ1Irhh40" width="500" height="300"> <img src="https://media.licdn.com/dms/image/D4D2DAQHxMvtbRjpdVQ/profile-treasury-image-shrink_1920_1920/0/1718308045988?e=1720191600&v=beta&t=m3gc7RGWQwmRatSkljwt3oc3KHcKwWQZS69IlXHw7uk" width="350" height="300">
 
 <br>
 
@@ -65,20 +66,94 @@ Carregamento dos dados transformados para posterior análise.
 * Análise dos padrões para obter insights e propor soluções
 * **Keywords** : Python, Data, Pandas, Geocodificação, Loggi, Logistica
 
-<img src="https://media.licdn.com/dms/image/D4D2DAQHoOOcfi9NyMw/profile-treasury-image-shrink_1920_1920/0/1718214582669?e=1718913600&v=beta&t=vtd3iklOfnNlQBqOOWY7by4nb3kS9eAYahiyih8IBaM" width="300" height="300">  <img src="https://media.licdn.com/dms/image/D4D2DAQEwGC0RA9lYww/profile-treasury-image-shrink_800_800/0/1718306853399?e=1718913600&v=beta&t=8UVkYLMhqSM3AZbAjXul2-C3S3wJYaUZvn8ShGsYN2Y" width="300" height="300"> <img src="https://media.licdn.com/dms/image/D4D2DAQE7MdM8q9n6Wg/profile-treasury-image-shrink_1920_1920/0/1718307042113?e=1718913600&v=beta&t=QBWfUfQN2b8fwgoFO81xTMptK4oQndNmtgZEMtVThMk" width="300" height="300">
+<img src="https://media.licdn.com/dms/image/D4D2DAQE7MdM8q9n6Wg/profile-treasury-image-shrink_1920_1920/0/1718307042113?e=1720191600&v=beta&t=f-RlFHRTkt6gX5UtnRZpf_-OMadw8hklGcSg51OvbnI" width="300" height="300">  <img src="https://media.licdn.com/dms/image/D4D2DAQEwGC0RA9lYww/profile-treasury-image-shrink_800_800/0/1718306853399?e=1720191600&v=beta&t=HsFeoi0tTWd4EXAzA27LbGKbOEVUiMTI-YTAPd8AFD0" width="300" height="300"> <img src="https://media.licdn.com/dms/image/D4D2DAQHoOOcfi9NyMw/profile-treasury-image-shrink_1920_1920/0/1718214582669?e=1720191600&v=beta&t=3AHux1tZDNlifpMXykb6ORySOQhba7mT4-2oIrcH5YM" width="300" height="300">
 
 <br>
 
-####  Projeto de analise de Cancelamento de Clientes [[Link para o repositório do projeto completo](https://github.com/LeticiaLavieri/Projeto-de-analise-de-Cancelamento-de-Clientes)]
+####  Projeto de análise exploratória e Descritiva de Dados de crédito com SQL [[Link para o repositório do projeto completo]()]
 
-Por meio do intensivo "Python PowerUp" realizado pela empresa de Hashtag Treinamentos foi feita uma análise em um banco de dados fictício, para verificar informações de clientes de uma empresa a fim de entender o percentual de cancelamento desses clientes e o motivo por trás desses cancelamentos propondo Insights para a diminuição desses números.
+Para este projeto, utilizei o AWS S3-bucket e o Athena para manipular dados em SQL e para a visualização gráfica foi utilizado o Excel.
+O objetivo desta análise é identificar padrões e tendências nos dados de crédito, fornecer insights sobre o comportamento dos clientes e auxiliar na tomada de decisões estratégicas. 
+Foi explorado diversas ideias de insights, incluindo a análise do perfil de crédito dos clientes, a identificação de fatores que influenciam a aprovação ou rejeição de crédito e a previsão do comportamento futuro dos clientes com base nos dados históricos.
 
 <br>
 
-<img src="https://github.com/LeticiaLavieri/Projeto-de-analise-de-Cancelamento-de-Clientes/blob/main/Graficos/Grafico%20duracao%20de%20contrato.PNG?raw=true" width="450" height="300">
+* Construção de uma análise exploratória e descritiva utilizando um dataset com 172 KB de tamanho, 2564 linha em formato CSV
+* Análise realisada atraves de linguagem SQL pelo AWS-Athena
 
-* Exploração, processamento e limpeza de dados, utilizando a biblioteca Pandas
-* Visualização de dados através de dashboard interativo utilizando a biblioteca Plotly 
+<br>
+
+```sql
+SELECT 
+	COUNT(*) AS Quantidade_linhas
+FROM creditoSQL;
+
+SELECT *
+FROM creditoSQL
+LIMIT 10;
+
+SELECT DISTINCT escolaridade FROM creditoSQL;
+SELECT DISTINCT estado_civil FROM creditoSQL;
+SELECT DISTINCT salario_anual FROM creditoSQL;
+SELECT DISTINCT tipo_cartao FROM creditoSQL;
+
+SELECT 
+    COUNT(*) AS Quantidade, salario_anual
+FROM creditoSQL
+    GROUP BY salario_anual;
+    
+SELECT 
+	COUNT(*) AS Quantidade_clientes, 
+    sexo 
+FROM creditoSQL 
+GROUP BY sexo;
+
+SELECT 
+	COUNT(*) AS Quantidade,
+	sexo,
+	salario_anual
+FROM creditoSQL
+GROUP BY sexo,
+	salario_anual;
+
+SELECT 
+	MIN(idade) AS idade_minima,
+	MAX(idade) AS idade_maxima
+FROM creditoSQL;
+
+SELECT 
+    MAX(limite_credito) AS limite_maximo,
+    escolaridade,
+    tipo_cartao,
+    sexo
+FROM creditoSQL 
+WHERE
+    escolaridade != 'na' AND 
+    tipo_cartao != 'na'
+GROUP BY 
+    escolaridade,
+    tipo_cartao,
+    sexo 
+ORDER BY 
+    limite_maximo DESC LIMIT 10;
+
+SELECT
+    MAX(limite_credito) AS limite_minimo,
+    escolaridade,
+    tipo_cartao,
+    sexo 
+FROM creditoSQL
+WHERE escolaridade != 'na' AND tipo_cartao != 'na' 
+GROUP BY 
+    escolaridade, 
+    tipo_cartao,
+    sexo 
+ORDER BY limite_minimo ASC LIMIT 10;
+```
+
+<img src="https://github.com/LeticiaLavieri/EDA-credito-SQL/blob/main/Imagens/Imagens%20do%20projeto.PNG?raw=true" width="450" height="300">
+
+
 
 <br>
 
@@ -144,9 +219,11 @@ Estou entusiasmada em compartilhar meus projetos de análise de dados em Python 
 
 **Vamos explorar juntos o mundo dos dados com Python!**
 
+<br>
+
 # Tecnologias utilizadas
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-7DB0BC?style=for-the-badge&logo=data:image/webp;base64,https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-7DB0BC?style=for-the-badge&logo=data:image/webp;base64,https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 
             
